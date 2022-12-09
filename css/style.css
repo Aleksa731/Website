@@ -1,0 +1,151 @@
+body {
+    background-image: url(../img/body-image.webp);
+    color: white;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+    
+    header {
+        background-color: rgb(39, 35, 35);
+        margin: -80px -20px 100px -20px;
+        padding: 80px;
+        text-align: center;
+        text-transform: uppercase;
+        color: firebrick;
+    }
+    
+    footer {
+        background-color: rgb(39, 35, 35);
+        margin: -10px -20px -20px -20px;
+        padding: 1px 30px 1px 30px;
+        text-align: center;
+        text-transform: uppercase;
+        clear: both;
+        font-size: 50px;
+        font-style: italic;
+        color: gold;
+    }
+    
+    
+    p {
+        width: 1000px;
+        line-height: 1.5;
+        font-weight: lighter;
+        font-style: italic;
+        color: rgb(196, 189, 189);
+        background-color: #4c6a7e;
+        text-align: left;
+    }
+    
+    a {
+        color: rgb(247, 177, 189);
+        text-decoration: none;
+    }
+    
+    a:hover, a:focus {
+        color: #555;
+    }
+    
+    
+    
+    .h1 {
+        font-style: italic;
+        font-size: 60px;
+        margin-bottom: -20px;
+    }
+    
+    
+    .p1 {
+        font-size: 30px;
+        margin: 0 auto 0 auto;
+        background-color: rgba(196, 189, 189, 20%);
+        padding: 30px;
+        color: rgb(64, 212, 212);
+        width: 900px;
+        text-align: center;
+    }
+    
+    .h2, .h3 {
+        font-size: 50px;
+        margin-top: 100px;
+        color: rgb(153, 153, 4);
+    }
+    
+    .h2 {
+        margin-left: 60px;
+    }
+    
+    .h3 {
+        margin-right: 60px;
+    }
+    
+    .div1, .div2 {
+        background-color: #4c6a7e;
+        padding: 30px;
+        margin: 30px auto 0 auto
+    }
+    
+    .div1 {
+        margin-left: 60px;
+    }
+    
+    .div2 {
+        margin-right: 60px;
+    }
+    
+    .p2, .p3 {
+        width: 750px;
+    }
+    
+    
+    section {
+        float: left;
+    }
+    
+    aside {
+        float: right;
+    }
+    
+    
+    
+    .welcome {
+        width: 150px;
+        height: 150px;
+        margin: -85px 0 0 95px;
+        float: left;
+    }
+    
+    .welcome2 {
+        width: 150px;
+        height: 150px;
+        margin: -85px 95px 0 0;
+        float: right;
+    }
+    
+    .deathclaw {
+        width: 700px;
+        height: 500px;
+        border: 1px solid white;
+        margin: -10px auto 0 60px;
+    }
+    
+    .clicker {
+        width: 700px;
+        height: 500px;
+        border: 1px solid white;
+        margin: -10px 60px 0 auto;
+    }
+    
+    .vaultboy {
+        width: 500px;
+        height: 500px;
+        margin: 400px 0px -210px 300px;
+        clear: both;
+    }
+    
+    ul {
+        text-align: left;
+        margin: -80px 0 0 50px;
+        color: orange
+    }
